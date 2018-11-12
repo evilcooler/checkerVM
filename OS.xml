@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="windows-1251"?>
-<main>
-    <module category="Check OS">
-        <name path="path for ps1 scripts">Start service</name>
-        <name path="path for ps1 scripts">Free spases</name>
-    </module>
-</main>
